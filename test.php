@@ -1,6 +1,5 @@
 <?php
 
 	echo "Hello World!";
-	echo "Ok Dude";
-	
+	echo "Ok Dude";	
 	exit;
