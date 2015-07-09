@@ -4,4 +4,7 @@
 	echo "Hello World!";
 	echo "Ok Dude";	
 	echo "New feature";
+	
+	echo "Patch from fork";
+	
 	exit;
