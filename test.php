@@ -5,6 +5,6 @@
 	echo "Ok Dude";	
 	echo "New feature";
 	
-	echo "Patch from fork";
+	echo "Patch from fork updated";
 	
 	exit;
