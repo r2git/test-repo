@@ -5,7 +5,7 @@
 	echo "New feature";
 	
 	echo "Patch from fork updated";
-	echo "Hotfix";
+	echo "Bla Bla";
 	
 	$a = 100;
 	
