@@ -7,4 +7,6 @@
 	
 	echo "Patch from fork updated";
 	
+	$a = 100;
+	
 	exit;
